@@ -1,4 +1,4 @@
-package com.example.sba;
+package com.example.SBA;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
