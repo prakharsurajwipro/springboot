@@ -8,8 +8,6 @@ public class ResTfulWebServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ResTfulWebServiceApplication.class, args);
-		System.out.println("Hello");
-		System.out.println("World");
 	}
 
 }
