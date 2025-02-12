@@ -1,14 +1,13 @@
-package com.example.demo;
+package com.example.SBA;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ResTfulWebServiceApplication {
+public class Sba1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ResTfulWebServiceApplication.class, args);
-		System.out.println("Restful Web Service");
+		SpringApplication.run(Sba1Application.class, args);
 	}
 
 }
