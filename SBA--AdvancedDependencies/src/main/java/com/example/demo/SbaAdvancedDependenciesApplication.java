@@ -52,7 +52,7 @@ public class SbaAdvancedDependenciesApplication {
 
             List<Customer> bauers = repository.findByLastName("Bauer");
 
-            if (bauers != null && !bauers.isEmpty()) {  // ✅ Ensure list is not null or empty
+            if (bauers != null && !bauers.isEmpty()) {  
                 for (Customer bauer : bauers) {
                     System.out.println(bauer);
                 }
