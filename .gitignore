@@ -13,3 +13,13 @@ sba-devtools/.settings/org.eclipse.jdt.core.prefs
 sba-devtools/.project
 SBA/src/main/java/com/example/sba/SbaApplication.java
 SBA/src/main/java/com/example/sba/SbaApplication.java
+SBA-AdvancedDependencies-2/.gitattributes
+SBA-AdvancedDependencies-2/.mvn/wrapper/maven-wrapper.properties
+SBA-AdvancedDependencies-2/compose.yaml
+SBA-AdvancedDependencies-2/mvnw
+SBA-AdvancedDependencies-2/mvnw.cmd
+SBA-AdvancedDependencies-2/pom.xml
+SBA-AdvancedDependencies-2/src/test/java/com/example/SBA/SbaAdvancedDependencies2ApplicationTests.java
+SBA-AdvancedDependencies-2/src/main/java/com/example/SBA/Receiver.java
+SBA-AdvancedDependencies-2/src/main/resources/application.properties
+SBA-AdvancedDependencies-2/src/main/java/com/example/SBA/MessagingRedisApplication.java
