@@ -47,3 +47,11 @@ SBA-AdvancedDependencies-2/.factorypath
 SBA-AdvancedDependencies-2/.classpath
 gs-messaging-redis-complete/.classpath
 gs-messaging-redis-complete/target/classes/META-INF/maven/com.example/messaging-redis/pom.properties
+MessagingRedis/.classpath
+MessagingRedis/.classpath
+MessagingRedis/target/classes/META-INF/maven/com.example/messaging-redis/pom.xml
+MessagingRedis/target/classes/META-INF/maven/com.example/messaging-redis/pom.properties
+MessagingRedis/target/classes/META-INF/maven/com.example/messaging-redis/pom.xml
+MessagingRedis/target/classes/META-INF/maven/com.example/messaging-redis/pom.properties
+MessagingRedis/src/test/java/com/example/demo/MessagingRedisApplicationTests.java
+MessagingRedis/.mvn/wrapper/maven-wrapper.properties
