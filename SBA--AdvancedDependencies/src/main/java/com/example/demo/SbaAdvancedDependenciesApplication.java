@@ -47,12 +47,12 @@ public class SbaAdvancedDependenciesApplication {
             System.out.println();
 
             // Fetch customers by last name
-            System.out.println("Customers found with findByLastName('Bauer'):");
+            System.out.println("Customers found with findByLastName('Bauerr')");
             System.out.println("--------------------------------------------");
 
             List<Customer> bauers = repository.findByLastName("Bauer");
 
-            if (bauers != null && !bauers.isEmpty()) {  // ✅ Ensure list is not null or empty
+            if (bauers != null && !bauers.isEmpty()) {  
                 for (Customer bauer : bauers) {
                     System.out.println(bauer);
                 }
