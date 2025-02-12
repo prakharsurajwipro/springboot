@@ -1,4 +1,4 @@
-package com.example.messagingredis;
+package com.example.demo;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

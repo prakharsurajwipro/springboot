@@ -47,7 +47,7 @@ public class SbaAdvancedDependenciesApplication {
             System.out.println();
 
             // Fetch customers by last name
-            System.out.println("Customers found with findByLastName('Bauer'):");
+            System.out.println("Customers found with findByLastName('Bauer')");
             System.out.println("--------------------------------------------");
 
             List<Customer> bauers = repository.findByLastName("Bauer");
